@@ -31,10 +31,10 @@ import {
 } from "lucide-react";
 
 // Import our custom generated images with their verified random identifiers from the compilation filesystem
-import imgEsDegan from "./assets/images/es_degan_1779460229284.png";
-import imgEsDawet from "./assets/images/es_dawet_1779460251588.png";
-import imgEsTeh from "./assets/images/es_teh_1779460268320.png";
-import imgAboutKedai from "./assets/images/about_kedai_1779460289114.png";
+import imgEsDegan from "./es_degan_1779460229284.png";
+import imgEsDawet from "./es_dawet_1779460251588.png";
+import imgEsTeh from "./es_teh_1779460268320.png";
+import imgAboutKedai from "./about_kedai_1779460289114.png";
 
 interface MenuItem {
   id: number;
